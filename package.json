@@ -1,0 +1,26 @@
+{
+  "name": "team-profile-generator",
+  "version": "1.0.0",
+  "description": "homework",
+  "main": "app.js",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github+https://github.com/baashkimereqi100/Team-Profile-Generator.git"
+  },
+  "author": "",
+  "bugs": {
+    "url": "https://github.com/bashkimereqi100/Team-Profile-Generator/issues"
+  },
+  "homepage": "https://github.com/bashkimereqi100/Team-Profile-Generator#readme",
+  "dependencies": {
+    "inquirer": "^7.0.0",
+    "jest": "^24.9.0"
+  }
+}
