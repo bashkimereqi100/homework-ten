@@ -2,7 +2,7 @@
 Team profile generator
 
 
-![act-test](Video/html-screenshot.mp4)
+
 
 Description
 
